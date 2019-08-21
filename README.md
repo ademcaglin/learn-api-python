@@ -8,3 +8,6 @@ Learning web api with using python language and flask
 - Unit Testing 
 - Log and Error Management
 - Jwt Middleware
+
+To test
+``` python -m unittest discover -s test -p "*_test.py" ```
