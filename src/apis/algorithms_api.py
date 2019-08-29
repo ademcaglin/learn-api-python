@@ -16,3 +16,6 @@ def apply_alg_f(alg_name, input):
     if alg_name == "reverse_words":
         return reverse_words(input)
     return ""
+
+
+
