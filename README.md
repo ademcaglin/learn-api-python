@@ -18,3 +18,9 @@ Config Management
 
 Json Validation 
 - https://github.com/Fischerfredl/flask-expects-json
+
+Error Handling
+- https://opensource.com/article/17/3/python-flask-exceptions
+
+Logging
+- https://docs.python.org/3/library/logging.html
